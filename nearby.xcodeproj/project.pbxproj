@@ -72,6 +72,8 @@
 		63A466542C0B149D00A0FEB5 /* nearby */ = {
 			isa = PBXGroup;
 			children = (
+				63A466722C0B230900A0FEB5 /* Repository */,
+				63A466772C0B268B00A0FEB5 /* Model */,
 				63A4666E2C0B221D00A0FEB5 /* View */,
 				63A4666D2C0B220F00A0FEB5 /* ViewModel */,
 				63A466692C0B15A400A0FEB5 /* Utility */,
@@ -106,8 +108,6 @@
 		63A4666E2C0B221D00A0FEB5 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				63A466772C0B268B00A0FEB5 /* Model */,
-				63A466722C0B230900A0FEB5 /* Repository */,
 				63A4666F2C0B222A00A0FEB5 /* Cells */,
 				63A466592C0B149D00A0FEB5 /* ViewController.swift */,
 			);
